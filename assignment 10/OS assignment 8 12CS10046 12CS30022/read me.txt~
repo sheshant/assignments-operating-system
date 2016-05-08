@@ -1,0 +1,8 @@
+commands 
+
+g++ -std=c++11 file_handling.cpp -o file
+./file
+
+it will save it as .png files
+exit from program and then open it
+
